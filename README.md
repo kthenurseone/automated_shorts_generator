@@ -40,6 +40,7 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 ## Images
 ![Telegram Message Bot](https://github.com/kthenurseone/automated_shorts_generator/blob/main/1.png?raw=true)
 ![Telegram Message Bot](https://github.com/kthenurseone/automated_shorts_generator/blob/main/2.png?raw=true)
+![Telegram Message Bot](https://github.com/kthenurseone/automated_shorts_generator/blob/main/3.png?raw=true)
 
 
 
